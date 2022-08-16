@@ -1,0 +1,18 @@
+#Header {
+    background-color: #192841;
+    position:relative
+}
+
+.linked {
+    color:aliceblue;
+    display:inline-block;
+    margin-left: 5%;
+    cursor: pointer;
+}
+
+.git {
+    color:aliceblue;
+    display: inline-block;
+    margin-left: 45%;
+    cursor: pointer;
+}
