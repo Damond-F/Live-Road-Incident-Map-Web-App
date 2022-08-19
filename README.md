@@ -27,7 +27,7 @@
 ## Webpage Demo 🌐
 
 ![demo1](https://user-images.githubusercontent.com/96760391/185517753-85602d85-40da-48ca-88a7-0bfdde272225.PNG)
-![Capture](https://user-images.githubusercontent.com/96760391/185518357-4b1dab43-4095-4991-9809-ce7b91f367ca.PNG)
+![demo 7](https://user-images.githubusercontent.com/96760391/185519901-b73a6b95-1890-4654-9cb0-41fa44d28621.PNG)
 ![demo2](https://user-images.githubusercontent.com/96760391/185519608-83b665ee-2bd6-40bd-a18e-99b3ad6b2ae8.PNG)
 
 
